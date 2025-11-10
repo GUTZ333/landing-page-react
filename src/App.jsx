@@ -11,7 +11,11 @@ function App() {
         <button type="button">Comprar</button>
       </nav>
       <section>
-        <h1>Nova Drift</h1>
+        <h1>Sinta o poder da velocidade com o Nova DRIFT.</h1>
+        <p>O simulador definitivo de drift, O novo conceito em performance automotiva</p>
+        <button id='experimentar-agora-button'>
+          Experimentar Agora
+        </button>
       </section>
     </main>
   )
