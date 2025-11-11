@@ -12,7 +12,7 @@ function App() {
       </nav>
       <section>
         <h1>Sinta o poder da velocidade com o Nova DRIFT.</h1>
-        <p>O simulador definitivo de drift, O novo conceito em performance automotiva</p>
+        <p>Entre no mundo do street drifting underground. Personalize seu carro, forme sua equipe e dispute batalhas épicas pela supremacia nas pistas urbanas mais desafiadoras do mundo.</p>
         <button id='experimentar-agora-button'>
           Experimentar Agora
         </button>
